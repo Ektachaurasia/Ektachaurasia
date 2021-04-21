@@ -4,7 +4,8 @@ About Me:
 
 👨‍💻 Graduate student at University of Houston\
 🤖 Major: Robotics and Control Systems\
-📍 Place: Houston, USA
+📍 Place: Houston, USA\
+💻 Email: ektachaurasia02@gmail.com
 
 <!---
 Ektachaurasia/Ektachaurasia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
