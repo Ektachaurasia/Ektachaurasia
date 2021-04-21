@@ -4,7 +4,6 @@ About Me:
 
 👨‍💻 Graduate student at University of Houston\
 🤖 Major: Robotics and Control Systems\
-📍 Place: Houston, USA\
 💻 Email: ektachaurasia02@gmail.com
 
 <!---
